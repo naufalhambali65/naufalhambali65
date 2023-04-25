@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello Guys 👋
 
+Perkenalkan namaku Naufal Syafiq Hambali.\
+Saya merupakan mahasiswa jurusan Teknik Informatika angkatan 2021 di universitas Tadulako.\
+Saat ini saya sedang mempelajari Framework Laravel dan berharap dapat menguasainya tahun ini.\
+Kedepannya saya juga berharap dapat mempelajari dan menguasai cloud technology for back-end apps.\
+<p align="left">
+<a href="https://github.com/naufalhambali65">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalhambali65&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalhambali65&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **naufalhambali65/naufalhambali65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
