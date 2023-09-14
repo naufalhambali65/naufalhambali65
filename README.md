@@ -1,9 +1,8 @@
 ### Hello Guys 👋
 
-Perkenalkan namaku Naufal Syafiq Hambali.\
-Saya merupakan mahasiswa jurusan Teknik Informatika angkatan 2021 di universitas Tadulako.\
-Saat ini saya sedang mempelajari Framework Laravel dan berharap dapat menguasainya tahun ini.\
-Kedepannya saya juga berharap dapat mempelajari dan menguasai cloud technology for back-end apps.\
+Hi! My name is Naufal Syafiq Hambali.\
+Informatics student at Tadulako University.\
+Cloud Computing Cohort at Bangkit Academy 2023 led by Google, GoTo, & Traveloka.\
 <p align="left">
 <a href="https://github.com/naufalhambali65">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalhambali65&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
